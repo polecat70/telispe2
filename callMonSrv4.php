@@ -18,7 +18,7 @@ define("CYELLOW",	"#ffff00");
 define("CRED",		"#ff0000");
 define("CBLUE",		"#76c0ff");
 define("ORANGE",	"#ff9800");
-
+testo testo;
 
 
 
